@@ -1,0 +1,22 @@
+{
+  "name": "ujjwal-gupta-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "next": "^15.5.6",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.3.1",
+    "@next/swc-wasm-nodejs": "^15.5.29",
+    "eslint": "^9.37.0",
+    "eslint-config-next": "^15.5.6"
+  }
+}
